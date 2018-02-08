@@ -6,7 +6,7 @@ while True:
         break
     fila = deque()
     for num in range(1, n+1):
-        fila.append(num)t
+        fila.append(num)
     descartadas = []
     while len(fila) >= 2:
         descartadas.append(fila.popleft())
