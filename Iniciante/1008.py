@@ -1,3 +1,4 @@
+# Problema -> Salário
 numero = int(input())
 numeroHoras = int(input())
 valorHora = float(input())
