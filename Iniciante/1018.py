@@ -25,7 +25,7 @@ print("{} nota(s) de R$ 1,00".format(nota_1))
 
 
 '''
-#Solução de Gabriel Alcantara IFCE Campus Crato
+#Solução de Gabriel Alcântara - IFCE Campus Crato
 notas = [100,50,20,10,5,2,1]
 qtdNotas = [0,0,0,0,0,0,0]
 n = int(input())
