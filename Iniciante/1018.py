@@ -22,3 +22,16 @@ print("{} nota(s) de R$ 10,00".format(nota_10))
 print("{} nota(s) de R$ 5,00".format(nota_5))
 print("{} nota(s) de R$ 2,00".format(nota_2))
 print("{} nota(s) de R$ 1,00".format(nota_1))
+
+
+'''
+#Solução de Gabriel Alcantara IFCE Campus Crato
+notas = [100,50,20,10,5,2,1]
+qtdNotas = [0,0,0,0,0,0,0]
+n = int(input())
+print (n)
+for i in range(0,7):
+    qtdNotas[i]= int(n/notas[i])
+    n %=notas[i]
+    print("%d nota(s) de R$ %s" %(qtdNotas[i],str(notas[i]) + ",00" ))
+'''
