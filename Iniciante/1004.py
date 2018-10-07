@@ -1,4 +1,4 @@
-# Problema -> Produto Simples
+#Produto Simples
 a = int(input())
 b = int(input())
 prod = a*b

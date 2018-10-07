@@ -1,4 +1,4 @@
-# Problema -> Teste de Seleção 1
+#Teste de Seleção 1
 
 a,b,c,d = map(int, input().split())
 

@@ -1,4 +1,4 @@
-# Problema -> Notas e Moedas
+#Notas e Moedas
 n = float(input())
 moeda = int((n-int(n)) * 100)
 nota = int(n)

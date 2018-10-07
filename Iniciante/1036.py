@@ -1,4 +1,5 @@
-# Problema -> Fórmula de Bhaskara
+#Fórmula de Bhaskara
+
 a,b,c = map(float, input().split())
 delta = b**2 - 4*a*c
 if a == 0 or delta < 0:

@@ -1,4 +1,4 @@
-# Problema -> Média 1
+#Média 1
 notaA = float(input())
 notaB = float(input())
 media = (notaA*3.5 + notaB*7.5) / 11

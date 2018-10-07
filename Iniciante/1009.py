@@ -1,4 +1,4 @@
-# Problema ->  Salário com Bônus
+#Salário com Bônus
 nome = input()
 salario_fixo = float(input())
 vendas_efetuadas = float(input())

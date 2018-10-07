@@ -1,4 +1,4 @@
-# Problema -> Conversão de Tempo
+#Conversão de Tempo
 segundos = int(input())
 minutos = segundos//60
 segundos%=60

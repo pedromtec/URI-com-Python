@@ -1,4 +1,4 @@
-# Problema -> Idade em Dias
+#Idade em Dias
 dias = int(input())
 anos =  dias // 365
 dias %= 365

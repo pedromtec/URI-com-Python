@@ -1,4 +1,4 @@
-# Problema -> Cédulas
+#Cédulas
 n = int(input())
 valor_lido = n
 nota_100 = n//100

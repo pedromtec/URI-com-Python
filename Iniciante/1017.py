@@ -1,4 +1,4 @@
-# Problema -> Gasto de Combustível
+#Gasto de Combustível
 tempo_gasto = int(input())
 velocidade_media = int(input())
 distancia = tempo_gasto * velocidade_media
